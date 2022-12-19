@@ -8,5 +8,7 @@ Palar river = 29 samples (S82- S110)
 GPS co-ordinate of Palar river: 12°56'18.8"N, 79°08'12.2"E (District: Vellore, Tamil Nadu, 632014, India)   
 NA= Not available (equivalent to not matched)    
 Abbreviations: PE: Polyethylene; PP: Polypropylene; PET: Polyethylene terephthalate   
-WL column= Wavenumber in cm-1
+First column: WL = Wavenumber in cm-1
+The data in each column is the transmittance percentage(T%). 
 S1-S110: Coding of sample from S1 to S110 in the CSV file. 
+The ATR-FTIR data are displayed in each column between 700 and 1750 cm-1. 
