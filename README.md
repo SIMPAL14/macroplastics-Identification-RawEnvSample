@@ -1,6 +1,6 @@
 # macroplastics-Identification-RawEnvSample
 Description:  A total of 110 environmental samples were examined, with 92 of them being identified. 
-Constrcution area = 21 samples (S1- S21)
+Construction area = 21 samples (S1- S21)
 Agricultural land 1 = 27 samples (S22-S48)
 Agricultural land 2= 16 samples (S49-S64) 
 Agricultural land 3= 17 samples (S65-S81)
